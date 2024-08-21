@@ -7,6 +7,7 @@
 ![AirlineVSCount](https://github.com/user-attachments/assets/08f5aed6-1670-4e00-bed3-14086de4c20e)
 
 **Observations from the Data:**
- 1. Airline Popularity: Jet Airways has the highest number of passengers, followed by IndiGo, indicating these airlines are the most frequently chosen by travelers in the dataset.
- 2. Source and Destination Trends: The majority of passengers are traveling from Delhi, followed by Kolkata. The most common destination is Cochin, with Bangalore being the second most frequent destination.
- 3. Stopover Patterns: A significant portion of travelers have at least one stop during their journey, followed by those with direct flights (zero stops). Passengers with two and three stopovers make up a smaller percentage of the dataset.
+1. **Airline Popularity:** Jet Airways has the highest number of passengers, followed by IndiGo, indicating these airlines are the most frequently chosen by travelers in the dataset.
+2. **Source and Destination Trends:** The majority of passengers are traveling from Delhi, followed by Kolkata. The most common destination is Cochin, with Bangalore being the second most frequent destination.
+3. **Stopover Patterns:** A significant portion of travelers have at least one stop during their journey, followed by those with direct flights (zero stops). Passengers with two and three stopovers make up a smaller percentage of the dataset.
+
